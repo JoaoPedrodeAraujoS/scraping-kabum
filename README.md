@@ -1,8 +1,8 @@
-# scraping-otobo-sla
+# scraping-kabum
 
-This project aims to carry out a web-scraping in the OTOBO system and remove SLA information from open tickets.
+This project aims to carry out a web-scraping in the KABUM site to get price and name for gamer chairs.
 
-This file discribe the required steps for running the scraping-otobo-sla.
+This file discribe the required steps for running the scraping-kabum.
 
 # Development Environment
 
@@ -30,4 +30,4 @@ This file discribe the required steps for running the scraping-otobo-sla.
 
 5. Open the terminal or the cmd
 
-6. Run the command python scraping_otobo.py
+6. Run the command python scraping-kabum.py
